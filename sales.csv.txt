@@ -1,0 +1,9 @@
+Date,Product,Sales,City
+2024-01-01,A,200,Delhi
+2024-01-02,B,150,Mumbai
+2024-01-03,A,300,Delhi
+2024-01-04,C,250,Bhopal
+2024-01-05,B,400,Mumbai
+2024-01-06,A,150,Delhi
+2024-01-07,C,350,Bhopal
+2024-01-08,B,200,Mumbai
